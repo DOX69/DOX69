@@ -2,7 +2,7 @@
 
 
 ## 👀 About Me
-I'm a passionate data engineer with a penchant for turning raw data into valuable insights. My journey began with dreams of becoming a doctor, an accountant, or a teacher, but life had other plans. I found myself working in restaurants, where I discovered my love for coding. Now, I'm on a mission to blend my culinary skills with data magic! 🍳🔍
+I'm a passionate data engineer with a penchant for turning raw data into valuable insights.🔍
 
 ## Interests
 - **Data Engineering**: I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality. Currently, I'm mastering Databricks to take my skills to the next level.📊
@@ -17,4 +17,4 @@ I'm open to collaborating on exciting data engineering projects or anything rela
 - 🌐 **LinkedIn**: www.linkedin.com/in/mickael-rakotoarinivo
 
 ## ⚡Fun Fact
-Did you know that I used to be a waiter and a cook? Life's twists and turns led me to the world of data, and I've never looked back. Bon appétit! 🍽️📊
+My journey began with dreams of becoming a doctor, an accountant, or a teacher, but life had other plans. I found myself working in restaurants🍳 Life's twists and turns led me to the world of data, and I've never looked back. Now, I'm on a mission to blend my culinary skills with data magic! Bon appétit! 🍽️📊
