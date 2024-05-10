@@ -44,16 +44,15 @@
     ⚡Fun Fact
 </h2></a></div>
 
+<img src="https://github.com/DOX69/DOX69/assets/163923520/7c5db2b8-d507-4df9-a8ef-851ead1e5798" width="120" height="120" align="right" style="margin-right: 30px;"/> 
 My journey began with dreams of becoming a doctor, an accountant, or a teacher, but life had other plans. I found myself working in restaurants🍳  Life's twists and turns led me to the world of data, and I've never looked back. Now, I'm on a mission to blend my culinary skills with data magic! Bon appétit! 🍽️📊 
 
-<img src="https://github.com/DOX69/DOX69/assets/163923520/7c5db2b8-d507-4df9-a8ef-851ead1e5798" width="120" height="120" align="right" style="margin-right: 30px;"/> 
 <div class="markdown-heading" dir="auto">
-  <h3 align="center" class="heading-element" dir="auto">
-    <div style="text-align: center;">
-     📜<a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> Certifications <br>
-    📫 mickael.rakotoa@gmail.com  <br>
+  <h3 align="left" class="heading-element" dir="auto">
+    Contact: <br>
     🌐<a href="www.linkedin.com/in/mickael-rakotoarinivo">linkedIn <br>
-      </div>
+    📜<a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet">Certifications <br>
+    📫mickael.rakotoa@gmail.com  <br>
 </h3></a></div>
 
 
