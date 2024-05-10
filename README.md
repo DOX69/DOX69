@@ -20,13 +20,21 @@
 </tr>
 </tbody>
 </div>
-
-
+  
 - **Sports Enthusiast**: Whether it's lifting weights, running, I believe in keeping both my mind and body fit.💪
 - **Financial Education and Investment**: I'm fascinated by the world of finance and investments. Let's talk stocks, ETF, and smart financial strategies! 💰
 
-## 🤝Collaboration
-I'm open to collaborating on exciting data engineering projects or anything related to finance🪙. If you have an idea or need a teammate, feel free to reach out!
+# 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=DOX69&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" align="right" style="margin-right: 30px;"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DOX69&theme=highcontrast&hide_border=false)<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=DOX69&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ## 👉👈Get in Touch
 - 📫 **Email**: mickael.rakotoa@gmail.com
