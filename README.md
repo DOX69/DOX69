@@ -31,7 +31,7 @@
 
 <div class="markdown-heading" dir="auto">
   <h2 align="center" class="heading-element" dir="auto">
-    📊 GitHub Reporting
+    📊 GitHub Dashboard
 </h2></a></div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DOX69&theme=dark&hide_border=false" width="44%" height="44%" align="right" style="margin-right: 30px;"/>
