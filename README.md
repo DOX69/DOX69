@@ -51,7 +51,7 @@ My journey began with dreams of becoming a doctor, an accountant, or a teacher, 
   <h3 align="left" class="heading-element" dir="auto">
     Contact: <br>
     🌐<a href="www.linkedin.com/in/mickael-rakotoarinivo">linkedIn <br>
-    📜<a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet">Certifications <br>
+    📜<a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet">Databricks certifications <br>
     📫mickael.rakotoa@gmail.com  <br>
 </h3></a></div>
 
