@@ -1,6 +1,6 @@
 <div class="markdown-heading" dir="auto">
   <h3 align="center" class="heading-element" dir="auto">
-    Hi there!👋 , I'm <a href="https://github.com/DOX69"> Mickaël RAKOTOARINIVO 
+    Hi there!👋 , I'm <a href="www.linkedin.com/in/mickael-rakotoarinivo"> Mickaël RAKOTOARINIVO 
   </h3></a></div>
     
 <div class="markdown-heading" dir="auto">
@@ -9,7 +9,7 @@
   </h2></a></div>
 <img src="https://github.com/DOX69/DOX69/assets/163923520/39712a7c-b9bc-49aa-9391-f70c7be1aa57" width="120" height="120" align="right" style="margin-right: 30px;"/>
 
-- **Data Engineering**: I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 
+- **Data Engineering**: I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 <a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> My certifications here.📜
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
 <thead>
 </thead>
@@ -17,7 +17,8 @@
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png"><img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png" title="Databricks" alt="Databricks" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" title="pg" alt="pg" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55" style="max-width: 100%;"></a></td>  
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/DOX69/blob/main/SNOWFLAKE.png"><img src="https://github.com/DOX69/DOX69/blob/main/SNOWFLAKE.png" title="SQL" alt="SQL" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg"><img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg" title="SQL" alt="SQL" width="55" height="55" style="max-width: 100%;"></a></td>
 </tr>
@@ -25,7 +26,7 @@
 </div>
   
 - **Sports Enthusiast**: Whether it's lifting weights, running, I believe in keeping both my mind and body fit.💪
-- **Financial Education and Investment**: I'm fascinated by the world of finance and investments. Let's talk stocks, ETF, and smart financial strategies! 💰
+- **Finance**: I'm fascinated by the world of finance and investments. Let's talk financial education, stocks, ETF etc ! 💰
 
 
 <div class="markdown-heading" dir="auto">
@@ -55,7 +56,6 @@ My journey began with dreams of becoming a doctor, an accountant, or a teacher, 
   <h3 align="left" class="heading-element" dir="auto">
     Contact: <br>
     🌐<a href="www.linkedin.com/in/mickael-rakotoarinivo">linkedIn <br>
-    📜<a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet">Databricks certifications <br>
     📫mickael.rakotoa@gmail.com  <br>
 </h3></a></div>
 
