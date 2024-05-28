@@ -1,6 +1,6 @@
 <div class="markdown-heading" dir="auto">
   <h3 align="center" class="heading-element" dir="auto">
-    Hi there!👋 , I'm <a href="www.linkedin.com/in/mickael-rakotoarinivo"> Mickaël RAKOTOARINIVO 
+    Hi there!👋 , I'm <a href="https://www.linkedin.com/in/mickael-rakotoarinivo/"> Mickaël RAKOTOARINIVO 
   </h3></a></div>
     
 <div class="markdown-heading" dir="auto">
@@ -55,7 +55,7 @@ My journey began with dreams of becoming a doctor, an accountant, or a teacher, 
 <div class="markdown-heading" dir="auto">
   <h3 align="left" class="heading-element" dir="auto">
     Contact: <br>
-    🌐<a href="www.linkedin.com/in/mickael-rakotoarinivo">linkedIn <br>
+    🌐<a href="https://www.linkedin.com/in/mickael-rakotoarinivo/">linkedIn <br>
     📫mickael.rakotoa@gmail.com  <br>
 </h3></a></div>
 
