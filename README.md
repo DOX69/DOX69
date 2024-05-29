@@ -59,5 +59,7 @@ My journey began with dreams of becoming a doctor, an accountant, or a teacher, 
     📫mickael.rakotoa@gmail.com  <br>
 </h3></a></div>
 
-
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 
