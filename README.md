@@ -11,8 +11,7 @@
 
 - **Data Engineering**: I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 <a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> My certifications here.📜
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
-<thead>
-</thead>
+
 <tbody>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png"><img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png" title="Databricks" alt="Databricks" width="55" height="55" style="max-width: 100%;"></a></td>
@@ -43,6 +42,9 @@
 <h3 align="center"  dir="auto">
   <img  width="78%" src="https://github-profile-trophy.vercel.app/?username=DOX69&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/> 
   </h3>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 align="center" class="heading-element" dir="auto">
@@ -59,7 +61,4 @@ My journey began with dreams of becoming a doctor, an accountant, or a teacher, 
     📫mickael.rakotoa@gmail.com  <br>
 </h3></a></div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
