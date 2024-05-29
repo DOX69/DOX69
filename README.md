@@ -9,7 +9,7 @@
   </h2></a></div>
 <img src="https://github.com/DOX69/DOX69/assets/163923520/39712a7c-b9bc-49aa-9391-f70c7be1aa57" width="120" height="120" align="right" style="margin-right: 30px;"/>
 
-- **Data Engineering**: I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 <a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> My certifications here.📜
+**Data Engineering**: I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 <a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> My certifications here.📜
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
 
 <tbody>
@@ -24,8 +24,8 @@
 </tbody>
 </div>
   
-- **Sports Enthusiast**: Whether it's lifting weights, running, I believe in keeping both my mind and body fit.💪
-- **Finance**: I'm fascinated by the world of finance and investments. Let's talk financial education, stocks, ETF etc ! 💰
+**Sports Enthusiast**: Whether it's lifting weights, running, I believe in keeping both my mind and body fit.💪
+**Finance**: I'm fascinated by the world of finance and investments. Let's talk financial education, stocks, ETF etc ! 💰
 
 
 <div class="markdown-heading" dir="auto">
@@ -39,9 +39,11 @@
 </h3>
 
 
-<h3 align="center"  dir="auto">
+<!-- <h3 align="center"  dir="auto">
   <img  width="78%" src="https://github-profile-trophy.vercel.app/?username=DOX69&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/> 
   </h3>
+ -->
+ 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
