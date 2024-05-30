@@ -25,6 +25,7 @@
 </div>
   
 **Sports Enthusiast**: Whether it's lifting weights, running, I believe in keeping both my mind and body fit.💪
+
 **Finance**: I'm fascinated by the world of finance and investments. Let's talk financial education, stocks, ETF etc ! 💰
 
 
