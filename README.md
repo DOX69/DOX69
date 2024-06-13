@@ -7,7 +7,7 @@
   <h2 align="center" class="heading-element" dir="auto">
     👀About me 
   </h2></a></div>
-<!-- <img src="https://github.com/DOX69/DOX69/assets/163923520/39712a7c-b9bc-49aa-9391-f70c7be1aa57" width="120" height="120" align="right" style="margin-right: 30px;"/> -->
+<img src="https://github.com/DOX69/DOX69/assets/163923520/39712a7c-b9bc-49aa-9391-f70c7be1aa57" width="120" height="120" align="right" style="margin-right: 30px;"/>
 
 **Data Engineering** : I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 <a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> My certifications here.📜
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
