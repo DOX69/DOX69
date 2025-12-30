@@ -10,7 +10,8 @@
 <img src="https://github.com/DOX69/DOX69/assets/163923520/39712a7c-b9bc-49aa-9391-f70c7be1aa57" width="120" height="120" align="right" style="margin-right: 30px;"/>
 
 **Data Engineering** : I thrive on designing robust data pipelines, optimizing performance, and ensuring data quality with valuable insights. Currently, I'm mastering Databricks to take my skills to the next level.📊 <a href="https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet"> My certifications here.📜
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">
+<div class="markdown-heading" dir="auto">And below you can see the technologies in which I specialize:<h3 align="center" class="heading-element" dir="auto">
+
 
 <tbody>
 <tr>
@@ -18,9 +19,10 @@
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" title="pg" alt="pg" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55" style="max-width: 100%;"></a></td>  
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png"><img src="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png" title="Snowflake" alt="Snowflake" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/DOX69/blob/main/assets/dbt-removebg-preview.png"><img src="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png" title="dbt" alt="dbt" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/DOX69/blob/main/assets/dbt-removebg-preview.png"><img src="https://github.com/DOX69/DOX69/blob/main/assets/dbt-removebg-preview.png" title="dbt" alt="dbt" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git&GitLab" alt="Git&GitLab" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg"><img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg" title="SQL" alt="SQL" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/DOX69/DOX69/blob/main/assets/python.png"><img src="https://github.com/DOX69/DOX69/blob/main/assets/python.png" title="Python&PySpark" alt="Python&PySpark" width="55" height="55" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </div>
