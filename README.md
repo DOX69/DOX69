@@ -34,13 +34,14 @@
 
 <div class="markdown-heading" dir="auto">
   <h2 align="center" class="heading-element" dir="auto">
-    📊 GitHub Dashboard 
+    <!-- 📊 GitHub Dashboard  -->
 </h2></a></div>
+<!-- 
 <h3  align="center" > 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOX69&theme=highcontrast&hide_border=false" width=75% align="center"/>  
 <img src="https://github-readme-stats.vercel.app/api?username=DOX69&theme=vision-friendly-dark&hide_border=false&hide=contribs" width="37.37%" height="44%" align="center" style="margin-right: 30px;"/>
 <img width="37.37%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOX69&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</h3>
+</h3> -->
 
 
 <!-- <h3 align="center"  dir="auto">
