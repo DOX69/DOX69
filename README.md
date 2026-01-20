@@ -21,15 +21,15 @@ Currently seeking new challenges in **Switzerland** focused on Databricks and mo
 
 **Core Data Engineering**
 
-| Databricks | Apache Spark | Delta Lake | Snowflake | dbt |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png?raw=true" width="50" alt="Databricks"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" width="50" alt="Apache Spark"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png?raw=true" width="50" alt="Delta Lake"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png?raw=true" width="50" alt="Snowflake"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/dbt-removebg-preview.png?raw=true" width="50" alt="dbt"/> |
+| Databricks | Apache Spark | Snowflake | dbt |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png?raw=true" width="50" alt="Databricks"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" width="50" alt="Apache Spark"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png?raw=true" width="50" alt="Snowflake"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/dbt-removebg-preview.png?raw=true" width="50" alt="dbt"/> |
 
 **Languages & Tools**
 
-| Python | SQL | Git | Azure | Power BI |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/DOX69/DOX69/blob/main/assets/python.png?raw=true" width="50" alt="Python"/> | <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg?raw=true" width="50" alt="SQL"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" alt="Git"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="50" alt="Azure"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="50" alt="Power BI"/> |
+| Python | SQL | Git | Azure |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/DOX69/DOX69/blob/main/assets/python.png?raw=true" width="50" alt="Python"/> | <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg?raw=true" width="50" alt="SQL"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" alt="Git"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="50" alt="Azure"/> |
 
 **Expertise Areas**
 - ✅ ETL/ELT Pipeline Development & Automation
@@ -66,7 +66,8 @@ Currently seeking new challenges in **Switzerland** focused on Databricks and mo
 ## 📚 Featured Repositories
 
 - [**Databricks for Data Engineer**](https://github.com/DOX69/Databricks_for_data_engineer) – Comprehensive guide to Databricks concepts and implementations
-- [**PySpark & Delta Lake Tutorials**](https://github.com/DOX69) – Practical examples and best practices
+- [**PySpark & Delta Lake Tutorials**](https://github.com/DOX69?tab=repositories) – Practical examples and best practices
+- [**Finance analysis**](https://github.com/DOX69/Bitcoin-analysis) - Creation of web app analysis for Bitcoin
 
 ---
 
