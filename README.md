@@ -15,6 +15,10 @@ Currently seeking new challenges in **Switzerland** focused on Databricks and mo
 - Databricks Certified Data Analyst
 - [View my credentials](https://credentials.databricks.com/profile/faniriantsoatianamickalrakotoarinivo886659/wallet)
 
+**📄 CV / Resume:**
+- [English Version](pages/CV_Data_Engineer_EN.md)
+- [French Version](pages/CV_Data_Engineer_FR.md)
+
 ---
 
 ## 🛠️ Tech Stack
