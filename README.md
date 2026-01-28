@@ -6,7 +6,7 @@ Hi! I'm **[Mickaël Rakotoarinivo](https://www.linkedin.com/in/mickael-rakotoari
 
 ## 🚀 About Me
 
-I thrive on designing **robust, scalable data pipelines** that optimize performance and ensure data quality. With **3+ years** of hands-on experience, I'm currently mastering **Databricks** to advance my expertise in enterprise-level data engineering.
+I thrive on designing **robust, scalable data pipelines** that optimize performance and ensure data quality. With **5 years** of hands-on experience, I'm currently mastering **Databricks** to advance my expertise in enterprise-level data engineering.
 
 Currently seeking new challenges in **Switzerland** focused on Databricks and modern data stack technologies.
 
