@@ -31,9 +31,9 @@ Currently seeking new challenges in **Switzerland** focused on Databricks and mo
 
 **Languages & Tools**
 
-| Python | SQL | Git | Azure |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/DOX69/DOX69/blob/main/assets/python.png?raw=true" width="50" alt="Python"/> | <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg?raw=true" width="50" alt="SQL"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" alt="Git"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="50" alt="Azure"/> |
+| Python | SQL | Git | Azure | docker |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/DOX69/DOX69/blob/main/assets/python.png?raw=true" width="50" alt="Python"/> | <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg?raw=true" width="50" alt="SQL"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" alt="Git"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="50" alt="Azure"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" alt="Docker"/> |
 
 **Expertise Areas**
 - ✅ ETL/ELT Pipeline Development & Automation
@@ -69,9 +69,9 @@ Currently seeking new challenges in **Switzerland** focused on Databricks and mo
 
 ## 📚 Featured Repositories
 
+- [**Finance analysis**](https://github.com/DOX69/Bitcoin-analysis) - Creation of web app analysis for Bitcoin
 - [**Databricks for Data Engineer**](https://github.com/DOX69/Databricks_for_data_engineer) – Comprehensive guide to Databricks concepts and implementations
 - [**PySpark & Delta Lake Tutorials**](https://github.com/DOX69?tab=repositories) – Practical examples and best practices
-- [**Finance analysis**](https://github.com/DOX69/Bitcoin-analysis) - Creation of web app analysis for Bitcoin
 
 ---
 
