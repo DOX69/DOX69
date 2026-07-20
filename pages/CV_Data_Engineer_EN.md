@@ -1,118 +1,65 @@
 # Mickaël Rakotoarinivo
-## Data Engineer | Apache Spark & Databricks Specialist
+## Data Engineer | Lakehouse, Snowflake & Data Products
 
-**Location:** Crissier, Vaud, Switzerland  
-**Email:** mickael.rakotoa@gmail.com  
-**Phone:** +41 79 600 42 86
-
----
-
-## Professional Summary
-
-Results-driven Data Engineer with 3+ years of specialized experience in designing and implementing scalable data pipelines on Databricks. Certified Databricks Data Engineer and Data Analyst with proven expertise in PySpark, SQL, and Delta Lake. Passionate about building production-ready, modular ETL solutions that drive business value through reliable data architecture and DevOps best practices. Seeking challenging opportunities in Switzerland to leverage advanced data engineering skills.
+**Vaud, Switzerland** · **+41 79 600 42 86** · **mickael.rakotoa@gmail.com**<br>
+[LinkedIn](https://www.linkedin.com/in/mickael-rakotoarinivo/) · [GitHub](https://github.com/DOX69)
 
 ---
 
-## Core Competencies
+## Profile
 
-**Data Engineering Expertise**
-- Apache Spark (PySpark, Spark SQL) | Delta Lake | Databricks Asset Bundles (DABs)
-- ETL Pipeline Development & Automation | Batch & Streaming Data Processing
-- Data Ingestion & Autoloader | Data Transformation & Quality Assurance
-- Structured Streaming | Change Data Feed (CDF) | Delta Table Optimization
+Data Engineer with 5+ years of experience turning raw data into governed pipelines, reliable analytics, and decision-ready products. Strong delivery background across Databricks, Apache Spark, Delta Lake, Snowflake, Python, PySpark, and SQL. Proven impact includes 70% faster Lakehouse processing, 20% lower Snowflake warehouse costs, two hours saved in daily monitoring, and 40% less manual processing. Open to opportunities across French-speaking Switzerland.
 
-**Data Platforms & Tools**
-- Databricks (Lakehouse Architecture) | Snowflake
-- dbt (Data Build Tool) | SQL (Advanced) | Python
-- Lakeflow Spark Declarative Pipelines | Databricks REST APIs & CLI
+## Technical strengths
 
-**DevOps & Deployment**
-- CI/CD Pipeline Integration | Git (GitHub/GitLab)
-- Databricks Job Automation (UI/APIs/CLI)
-- Infrastructure as Code | Git-based Deployment Workflows
+- **Platforms:** Databricks, Snowflake, Delta Lake, dbt
+- **Languages:** Python, PySpark, SQL, Snowpark
+- **Data engineering:** batch and streaming, ETL/ELT, dimensional modeling, data contracts, data quality, governance, observability
+- **Delivery:** CI/CD, TDD, GitHub/GitLab, Docker, Databricks Asset Bundles, REST APIs and CLI
+- **Analytics:** Power BI, Tableau, SSRS, Alteryx
 
-**Data Quality & Governance**
-- Unit & Integration Testing (assertDataFrameEqual, assertSchemaEqual)
-- Data Quality Monitoring via SQL Alerts
-- Metadata Management & Data Discoverability
+## Professional experience
 
-**Soft Skills**
-- Cross-functional collaboration | Technical mentorship | Agile/DevOps practices
-- Excellent communication | Problem-solving mindset | Reliability
+### Data Engineer · InPost Group · October 2022–present
 
----
+- Design and industrialize scalable PySpark and SQL pipelines for enterprise Lakehouse workloads in batch and streaming modes.
+- Improved Lakehouse processing time by **70%** through workload and pipeline optimization.
+- Reduced Snowflake warehouse costs by **20%** through workload analysis and optimization.
+- Saved **two hours of daily monitoring** by implementing data-quality controls, SQL alerts, and observable job operations.
+- Contributed to a Snowflake-to-Databricks migration covering **10+ Bronze tables** and **30+ Silver fact and dimension tables**.
+- Build modular Python projects and deployment workflows with Databricks Asset Bundles and CI/CD.
+- Apply dimensional modeling, automated tests, data contracts, and governance controls to production datasets.
+- Collaborate with analysts, consultants, and cross-border engineering teams across the delivery lifecycle.
 
-## Professional Experience
+### Data Analyst · Hoist Finance · May 2021–August 2022
 
-### **Data Engineer** | Inpost Group | France | October 2022 – Present (3 years)
+- Automated data extraction and analytical workflows with Alteryx, reducing manual processing by **40%**.
+- Developed scheduled ETL pipelines supporting operational and strategic reporting.
+- Implemented data-quality alerts to surface anomalies before downstream use.
+- Built Tableau and SSRS reporting and conducted statistical analyses for business decisions.
 
-*Architected and industrialized scalable data pipelines for enterprise Lakehouse using Databricks*
+## Selected projects
 
-- Designed and industrialized PySpark/SQL workflows leveraging Delta Tables in batch and streaming modes, ensuring scalable and optimized data pipelines serving enterprise data needs
-- Implemented Kimball Method dimensional modeling to enrich Lakehouse relational database, delivering reliable and automated ETL processes
-- Architected and deployed Spark Declarative Pipelines and Autoloader for efficient data ingestion across multiple formats (Delta, Parquet, JSON, CSV, XML, Text) and diverse sources including message buses and Kafka
-- Built production-ready Python project structures optimized for Databricks Asset Bundles (DABs), enabling modular development, deployment automation, and seamless CI/CD integration
-- Managed external dependencies and third-party library installations (PyPI packages, local wheels, source archives) in Databricks environments
-- Developed comprehensive unit and integration tests using assertDataFrameEqual and assertSchemaEqual frameworks to ensure code correctness and reliability
-- Established data quality monitoring using SQL Alerts and REST API-driven job monitoring for proactive issue detection
-- Leveraged Databricks REST APIs and CLI for job orchestration and performance optimization
-- Served as certified Databricks reference for French data team, providing technical guidance and expertise to Data Analysts and Consultants
-- Collaborated with cross-border Polish Data Engineers on large-scale, multi-country data projects across full lifecycle implementations
-- Practiced Agile ceremonies and DevOps methodologies, delivering CI/CD-integrated data solutions using Jira
+### [PriceHunter](https://price-hunter.app/) · B2B procurement optimizer
 
-### **Data Analyst** | Hoist Finance | Banking Sector | France | May 2021 – August 2022 (1 year)
+Product that turns electrical-supply lists into optimized multi-supplier baskets using live offers, stock, sales units, and contractual prices. **July 2026 dev snapshot:** 116 baskets, 595 items optimized, CHF 67.4k processed, CHF 3.7k estimated savings.
 
-*Automated data workflows and built enterprise reporting infrastructure*
+### [US Economy Agent](https://github.com/DOX69/us-economy-agent) · Grounded economic intelligence
 
-- Automated data extraction workflows and created analytical datasets for business teams using Alteryx, reducing manual processing time by 40%
-- Implemented intelligent alert systems for data quality verification, detecting and flagging data anomalies in real-time
-- Developed and maintained scheduled ETL pipelines to feed operational and strategic reporting datasets, ensuring timely data availability
-- Designed and maintained interactive dashboards and reports using Tableau and SQL SSRS, delivering actionable business insights
-- Conducted statistical analyses to support data-driven decision-making recommendations
+Snowpark ingestion and auto-refreshing Snowflake Dynamic Tables over live BLS and Freddie Mac data, with guarded Cortex answers and a public Streamlit interface.
 
----
+### [Agent Performance Hub](https://github.com/DOX69/agent-performance-hub) · Context engineering CLI
 
-## Certifications & Credentials
+Python CLI for discovering, installing, updating, and governing curated AI-agent skills. Includes a 275-skill registry, manifest lifecycle management, and 124 automated tests.
 
-- **Databricks Certified Associate Developer for Apache Spark**
-- **Databricks Certified Data Analyst**
-- **Master's Degree in Data Sciences** | University of Lille - Sciences & Technology (2020–2022)
-  - Specialization: Data modeling, ETL, BI tools, statistical analysis, ML, and strategic data use
-- **Bachelor's Degree in Economics and Management** (2017–2020)
+## Education & credentials
 
----
+- **MSc in Data Science**, University of Lille · 2020–2022
+- **BSc in Economics and Management** · 2017–2020
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) · earned June 2024 · validity ended June 2026
+- [Databricks Certified Data Analyst Associate](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) · earned March 2024 · validity ended March 2026
 
-## Technical Skill Stack
+## Languages & interests
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, SQL (Advanced) |
-| **Big Data Platforms** | Databricks, Apache Spark, Delta Lake, Snowflake |
-| **Data Pipeline Tools** | Lakeflow, Autoloader, dbt, Alteryx |
-| **Workflow Orchestration** | Databricks Jobs, Databricks Asset Bundles (DABs) |
-| **Version Control & CI/CD** | Git (GitHub/GitLab), Databricks Git Folders |
-| **Data Visualization** | Power BI, Tableau |
-| **Development Tools** | PyCharm, IntelliJ IDEA |
-| **Methodologies** | Agile, DevOps, Kimball Dimensional Modeling |
-
----
-
-## Languages
-
-- **English** – Fluent
-- **French** – Bilingual
-- **Malagasy** – Bilingual
-
----
-
-## Additional Information
-
-**Interests & Passions:**
-- Financial education, investment strategy, and monetary systems
-- Sports: Weight training and Martial Arts (Aikido)
-
-**Availability:** Open to relocation within Switzerland or remote opportunities aligned with Databricks ecosystem
-
----
-
-*References and detailed project portfolio available upon request*
+**French:** bilingual · **Malagasy:** bilingual · **English:** fluent<br>
+Strength training, Aikido, financial literacy, investing, and monetary systems.

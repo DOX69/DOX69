@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mickaël Rakotoarinivo — Data Engineer</title>
+  <desc id="desc">Production-grade data and AI systems, from raw data to governed pipelines and shipped products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1324"/><stop offset="1" stop-color="#0D1830"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#61D6C6"/><stop offset="1" stop-color="#71A7FF"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <path d="M0 291H1200M0 326H1200M760 0V360M880 0V360M1000 0V360M1120 0V360" stroke="#182842" stroke-width="1" opacity=".62"/>
+  <rect x="48" y="42" width="152" height="28" rx="14" fill="#111D33" stroke="#294261"/>
+  <circle cx="65" cy="56" r="4" fill="#61D6C6"/>
+  <text x="79" y="61" fill="#AFC0D6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6">AVAILABLE · VAUD</text>
+  <text x="48" y="126" fill="#F4F7FB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="700">Mickaël Rakotoarinivo</text>
+  <text x="48" y="173" fill="#F4F7FB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="600">Data Engineer building production-grade</text>
+  <text x="48" y="207" fill="url(#line)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="600">data &amp; AI systems.</text>
+  <text x="48" y="252" fill="#8C9CB3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">I turn raw data into governed pipelines, decision-ready products,</text>
+  <text x="48" y="276" fill="#8C9CB3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">and measurable business outcomes.</text>
+  <g id="source-nodes">
+    <rect x="786" y="57" width="94" height="42" rx="10" fill="#111D33" stroke="#294261"/><text x="833" y="82" text-anchor="middle" fill="#AFC0D6" font-family="ui-monospace, monospace" font-size="12">RAW DATA</text>
+    <rect x="786" y="126" width="94" height="42" rx="10" fill="#111D33" stroke="#294261"/><text x="833" y="151" text-anchor="middle" fill="#AFC0D6" font-family="ui-monospace, monospace" font-size="12">EVENTS</text>
+    <rect x="786" y="195" width="94" height="42" rx="10" fill="#111D33" stroke="#294261"/><text x="833" y="220" text-anchor="middle" fill="#AFC0D6" font-family="ui-monospace, monospace" font-size="12">APIs</text>
+  </g>
+  <path id="path-model" d="M880 78H920V147H947" fill="none" stroke="#294261" stroke-width="2"/>
+  <path d="M880 147H947M880 216H920V147" fill="none" stroke="#294261" stroke-width="2"/>
+  <rect id="path-govern" x="947" y="114" width="112" height="67" rx="14" fill="#13233B" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="970" cy="136" r="5" fill="#61D6C6"/><text x="985" y="141" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="13" font-weight="600">GOVERN</text>
+  <text x="970" y="162" fill="#8C9CB3" font-family="ui-monospace, monospace" font-size="10">MODEL · TEST · SHIP</text>
+  <path d="M1059 147H1086V74M1086 147V220" fill="none" stroke="#294261" stroke-width="2"/>
+  <g id="output-pricehunter"><circle cx="1097" cy="74" r="8" fill="#61D6C6"/><text x="1114" y="79" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="12">PriceHunter</text></g>
+  <g id="output-economy"><circle cx="1097" cy="147" r="8" fill="#71A7FF"/><text x="1114" y="152" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="12">US Economy</text></g>
+  <g id="output-aph"><circle cx="1097" cy="220" r="8" fill="#9E83FF"/><text x="1114" y="225" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="12">Agent Hub</text></g>
+  <circle cx="1003" cy="147" r="30" fill="#61D6C6" opacity=".05" filter="url(#glow)"/>
+  <text x="786" y="305" fill="#71829A" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">INGEST → GOVERN → DELIVER</text>
+</svg>
