@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "duration_seconds": 5,
+  "fps": 20,
+  "canvas": { "width": 1200, "height": 360 },
+  "loop": "seamless",
+  "sequence": [
+    { "time": 0.0, "event": "source_nodes_wake" },
+    { "time": 0.8, "event": "data_flows_to_governance" },
+    { "time": 1.7, "event": "governance_check_passes" },
+    { "time": 2.5, "event": "pricehunter_ships" },
+    { "time": 3.1, "event": "us_economy_agent_ships" },
+    { "time": 3.7, "event": "agent_performance_hub_ships" },
+    { "time": 4.4, "event": "hold_then_reset" }
+  ],
+  "reduced_motion_fallback": "hero.svg"
+}

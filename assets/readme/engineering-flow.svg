@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">How I engineer data products</title><desc id="desc">Raw data moves through ingestion, modeling, quality and observability, then becomes a decision-ready product.</desc>
+  <rect width="1200" height="220" rx="22" fill="#0B1324"/>
+  <path d="M125 112H1080" stroke="#253A56" stroke-width="2"/>
+  <path d="M1017 104L1031 112L1017 120" fill="none" stroke="#71A7FF" stroke-width="2"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif" text-anchor="middle">
+    <g transform="translate(125 112)"><circle r="37" fill="#111D33" stroke="#35516E"/><circle r="6" fill="#8C9CB3"/><text y="64" fill="#F4F7FB" font-size="14" font-weight="600">Raw signals</text><text y="83" fill="#71829A" font-size="11">APIs · files · events</text></g>
+    <g transform="translate(355 112)"><circle r="37" fill="#111D33" stroke="#61D6C6"/><path d="M-12-7H12M-12 0H12M-12 7H12" stroke="#61D6C6" stroke-width="3"/><text y="64" fill="#F4F7FB" font-size="14" font-weight="600">Ingest &amp; model</text><text y="83" fill="#71829A" font-size="11">batch · streaming · contracts</text></g>
+    <g transform="translate(600 112)"><circle r="37" fill="#111D33" stroke="#61D6C6"/><path d="M-12 1L-4 9L14-10" fill="none" stroke="#61D6C6" stroke-width="4"/><text y="64" fill="#F4F7FB" font-size="14" font-weight="600">Govern &amp; test</text><text y="83" fill="#71829A" font-size="11">quality · lineage · TDD</text></g>
+    <g transform="translate(845 112)"><circle r="37" fill="#111D33" stroke="#71A7FF"/><path d="M-13 9V-3M0 9V-13M13 9V-8" stroke="#71A7FF" stroke-width="5"/><text y="64" fill="#F4F7FB" font-size="14" font-weight="600">Observe &amp; operate</text><text y="83" fill="#71829A" font-size="11">SLAs · alerts · cost</text></g>
+    <g transform="translate(1080 112)"><circle r="40" fill="#13233B" stroke="#71A7FF" stroke-width="2"/><path d="M-14 7L-3 16L17-14" fill="none" stroke="#71A7FF" stroke-width="4"/><text y="67" fill="#F4F7FB" font-size="14" font-weight="600">Decision-ready</text><text y="86" fill="#71829A" font-size="11">trusted product</text></g>
+  </g>
+</svg>
