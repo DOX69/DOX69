@@ -1,7 +1,9 @@
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/readme/hero-mobile.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/readme/hero.svg">
-    <img src="assets/readme/hero.gif" width="100%" alt="Mickaël Rakotoarinivo — Data Engineer building production-grade data and AI systems">
+    <source media="(max-width: 600px)" srcset="assets/readme/hero-mobile.gif">
+    <img src="assets/readme/hero.gif" width="100%" alt="Mickaël Rakotoarinivo, Data Engineer building governed systems from ingestion to intelligent delivery">
   </picture>
 </p>
 
