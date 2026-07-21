@@ -102,7 +102,9 @@ I am open to data engineering roles in Switzerland (Vaud and Geneva), and to sel
 <p align="center">
   <div align="center">
     
-**[Start a conversation on LinkedIn ↗](https://www.linkedin.com/in/mickael-rakotoarinivo/)** · **[Email me ↗](mailto:mickael.rakotoa@gmail.com)** · [English résumé](pages/CV_Data_Engineer_EN.md) · [CV français](pages/CV_Data_Engineer_FR.md)
+**[Start a conversation on LinkedIn ↗](https://www.linkedin.com/in/mickael-rakotoarinivo/)** · **[Email me ↗](mailto:mickael.rakotoa@gmail.com)** 
+
+[English résumé](pages/CV_Data_Engineer_EN.md) · [CV français](pages/CV_Data_Engineer_FR.md)
 
   </div>
   
