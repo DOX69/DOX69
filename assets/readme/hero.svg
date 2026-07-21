@@ -1,35 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Mickaël Rakotoarinivo — Data Engineer</title>
-  <desc id="desc">Production-grade data and AI systems, from raw data to governed pipelines and shipped products.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Mickaël Rakotoarinivo, Data Engineer</title>
+  <desc id="desc">A governed data pipeline flows from ingest to transform and deliver, producing analytics, AI, and data products.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1324"/><stop offset="1" stop-color="#0D1830"/></linearGradient>
-    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#61D6C6"/><stop offset="1" stop-color="#71A7FF"/></linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0A1324"/>
+      <stop offset="1" stop-color="#0D1930"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" x2="1">
+      <stop stop-color="#61D6C6"/>
+      <stop offset=".55" stop-color="#71A7FF"/>
+      <stop offset="1" stop-color="#9E83FF"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <path d="M0 291H1200M0 326H1200M760 0V360M880 0V360M1000 0V360M1120 0V360" stroke="#182842" stroke-width="1" opacity=".62"/>
-  <rect x="48" y="42" width="152" height="28" rx="14" fill="#111D33" stroke="#294261"/>
-  <circle cx="65" cy="56" r="4" fill="#61D6C6"/>
-  <text x="79" y="61" fill="#AFC0D6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6">AVAILABLE · VAUD</text>
-  <text x="48" y="126" fill="#F4F7FB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="700">Mickaël Rakotoarinivo</text>
-  <text x="48" y="173" fill="#F4F7FB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="600">Data Engineer building production-grade</text>
-  <text x="48" y="207" fill="url(#line)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="600">data &amp; AI systems.</text>
-  <text x="48" y="252" fill="#8C9CB3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">I turn raw data into governed pipelines, decision-ready products,</text>
-  <text x="48" y="276" fill="#8C9CB3" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">and measurable business outcomes.</text>
-  <g id="source-nodes">
-    <rect x="786" y="57" width="94" height="42" rx="10" fill="#111D33" stroke="#294261"/><text x="833" y="82" text-anchor="middle" fill="#AFC0D6" font-family="ui-monospace, monospace" font-size="12">RAW DATA</text>
-    <rect x="786" y="126" width="94" height="42" rx="10" fill="#111D33" stroke="#294261"/><text x="833" y="151" text-anchor="middle" fill="#AFC0D6" font-family="ui-monospace, monospace" font-size="12">EVENTS</text>
-    <rect x="786" y="195" width="94" height="42" rx="10" fill="#111D33" stroke="#294261"/><text x="833" y="220" text-anchor="middle" fill="#AFC0D6" font-family="ui-monospace, monospace" font-size="12">APIs</text>
+
+  <rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="#182842" stroke-width="1" opacity=".62">
+    <path d="M0 320H1200M0 360H1200M540 0V400M660 0V400M780 0V400M900 0V400M1020 0V400M1140 0V400"/>
   </g>
-  <path id="path-model" d="M880 78H920V147H947" fill="none" stroke="#294261" stroke-width="2"/>
-  <path d="M880 147H947M880 216H920V147" fill="none" stroke="#294261" stroke-width="2"/>
-  <rect id="path-govern" x="947" y="114" width="112" height="67" rx="14" fill="#13233B" stroke="url(#line)" stroke-width="2"/>
-  <circle cx="970" cy="136" r="5" fill="#61D6C6"/><text x="985" y="141" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="13" font-weight="600">GOVERN</text>
-  <text x="970" y="162" fill="#8C9CB3" font-family="ui-monospace, monospace" font-size="10">MODEL · TEST · SHIP</text>
-  <path d="M1059 147H1086V74M1086 147V220" fill="none" stroke="#294261" stroke-width="2"/>
-  <g id="output-pricehunter"><circle cx="1097" cy="74" r="8" fill="#61D6C6"/><text x="1114" y="79" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="12">PriceHunter</text></g>
-  <g id="output-economy"><circle cx="1097" cy="147" r="8" fill="#71A7FF"/><text x="1114" y="152" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="12">US Economy</text></g>
-  <g id="output-aph"><circle cx="1097" cy="220" r="8" fill="#9E83FF"/><text x="1114" y="225" fill="#F4F7FB" font-family="ui-sans-serif, system-ui" font-size="12">Agent Hub</text></g>
-  <circle cx="1003" cy="147" r="30" fill="#61D6C6" opacity=".05" filter="url(#glow)"/>
-  <text x="786" y="305" fill="#71829A" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">INGEST → GOVERN → DELIVER</text>
+  <path d="M540 28V372" stroke="#21334E" stroke-width="1"/>
+
+  <g id="identity">
+    <rect x="48" y="40" width="218" height="30" rx="15" fill="#111E34" stroke="#2A4362"/>
+    <circle cx="65" cy="55" r="4" fill="#61D6C6"/>
+    <text x="79" y="60" fill="#B8C7DA" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">AVAILABLE · SUISSE ROMANDE</text>
+    <text x="48" y="132" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="38" font-weight="700">Mickaël Rakotoarinivo</text>
+    <text x="48" y="175" fill="#61D6C6" font-family="Arial, sans-serif" font-size="24" font-weight="700">Data Engineer</text>
+    <text x="48" y="225" fill="#AFC0D6" font-family="Arial, sans-serif" font-size="18">Building governed data systems,</text>
+    <text x="48" y="252" fill="#AFC0D6" font-family="Arial, sans-serif" font-size="18">from ingestion to intelligent delivery.</text>
+  </g>
+
+  <g id="motion-governance">
+    <rect x="565" y="274" width="607" height="72" rx="12" fill="#101D33" stroke="#294261"/>
+    <path d="M566 275H1171" stroke="url(#flow)" stroke-width="2"/>
+    <path d="M586 298L594 294L602 298V306C602 313 596 317 594 318C592 317 586 313 586 306Z" fill="none" stroke="#61D6C6" stroke-width="2" stroke-linejoin="round"/>
+    <text x="615" y="305" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="13" font-weight="700">GOVERNANCE</text>
+    <text x="615" y="328" fill="#91A4BD" font-family="Arial, sans-serif" font-size="12" letter-spacing=".65">QUALITY · SECURITY · LINEAGE</text>
+    <circle cx="1125" cy="310" r="4" fill="#61D6C6"/>
+    <circle cx="1143" cy="310" r="4" fill="#71A7FF"/>
+    <circle cx="1161" cy="310" r="4" fill="#9E83FF"/>
+  </g>
+
+  <g id="motion-ingest">
+    <rect x="565" y="103" width="120" height="94" rx="12" fill="#111F36" stroke="#31506F"/>
+    <path d="M625 116V132M619 126L625 132L631 126M617 137H633" fill="none" stroke="#61D6C6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="625" y="160" text-anchor="middle" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="14" font-weight="700">INGEST</text>
+    <text x="625" y="182" text-anchor="middle" fill="#91A4BD" font-family="Arial, sans-serif" font-size="12">Collect</text>
+  </g>
+  <g id="motion-flow-ingest-transform">
+    <path d="M685 150H719" fill="none" stroke="#4A6688" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g id="motion-transform">
+    <rect x="719" y="103" width="142" height="94" rx="12" fill="#111F36" stroke="#31506F"/>
+    <path d="M780 119H800M780 127H800M780 135H800" stroke="#71A7FF" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="786" cy="119" r="3" fill="#0D1930" stroke="#71A7FF" stroke-width="2"/>
+    <circle cx="795" cy="127" r="3" fill="#0D1930" stroke="#71A7FF" stroke-width="2"/>
+    <circle cx="784" cy="135" r="3" fill="#0D1930" stroke="#71A7FF" stroke-width="2"/>
+    <text x="790" y="160" text-anchor="middle" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="14" font-weight="700">TRANSFORM</text>
+    <text x="790" y="182" text-anchor="middle" fill="#91A4BD" font-family="Arial, sans-serif" font-size="12">Model</text>
+  </g>
+  <g id="motion-flow-transform-deliver">
+    <path d="M861 150H895" fill="none" stroke="#4A6688" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g id="motion-deliver">
+    <rect x="895" y="103" width="124" height="94" rx="12" fill="#111F36" stroke="#31506F"/>
+    <path data-icon="package" d="M947 121L957 116L967 121V134L957 140L947 134ZM947 121L957 127L967 121M957 127V140" fill="none" stroke="#9E83FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="957" y="160" text-anchor="middle" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="14" font-weight="700">DELIVER</text>
+    <text x="957" y="182" text-anchor="middle" fill="#91A4BD" font-family="Arial, sans-serif" font-size="12">Serve</text>
+  </g>
+  <g id="motion-output-flow">
+    <path d="M1019 150H1026V80M1026 150V220M1026 80H1036M1026 150H1036M1026 220H1036" fill="none" stroke="#3D5879" stroke-width="2"/>
+  </g>
+  <g id="motion-output-analytics">
+    <rect x="1036" y="50" width="132" height="60" rx="10" fill="#102238" stroke="#31506F"/>
+    <path d="M1094 76V65M1102 76V60M1110 76V68" stroke="#61D6C6" stroke-width="2" stroke-linecap="round"/>
+    <text x="1102" y="97" text-anchor="middle" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="12" font-weight="700">ANALYTICS</text>
+  </g>
+  <g id="motion-output-ai">
+    <rect x="1036" y="120" width="132" height="60" rx="10" fill="#102238" stroke="#31506F"/>
+    <path d="M1096 137L1108 151M1108 137L1096 151" stroke="#71A7FF" stroke-width="1.5"/>
+    <circle cx="1096" cy="137" r="3" fill="#71A7FF"/><circle cx="1108" cy="137" r="3" fill="#71A7FF"/><circle cx="1096" cy="151" r="3" fill="#71A7FF"/><circle cx="1108" cy="151" r="3" fill="#71A7FF"/>
+    <text x="1102" y="167" text-anchor="middle" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="12" font-weight="700">AI</text>
+  </g>
+  <g id="motion-output-data-products">
+    <rect x="1036" y="190" width="132" height="60" rx="10" fill="#102238" stroke="#31506F"/>
+    <ellipse cx="1102" cy="204" rx="9" ry="4" fill="none" stroke="#9E83FF" stroke-width="1.5"/>
+    <path d="M1093 204V219C1093 222 1097 224 1102 224C1107 224 1111 222 1111 219V204M1093 212C1093 215 1097 217 1102 217C1107 217 1111 215 1111 212" fill="none" stroke="#9E83FF" stroke-width="1.5"/>
+    <text x="1102" y="237" text-anchor="middle" fill="#F5F8FC" font-family="Arial, sans-serif" font-size="12" font-weight="700">DATA PRODUCTS</text>
+  </g>
 </svg>
