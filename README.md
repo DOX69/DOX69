@@ -32,17 +32,11 @@
 
 Turns electrical-supply lists into optimized multi-supplier baskets using live offers, stock, sales units, and contractual prices. From import and comparison to supplier split, transmission, and savings reporting.
 
-The product replaces a fragmented procurement workflow with one traceable decision path. It normalizes imported lists, compares eligible offers without losing supplier constraints, respects real sales units, and produces an actionable basket rather than another spreadsheet. Reporting then closes the loop with processed volume and scenario-based savings evidence.
-
-**July 2026 dev snapshot:** 116 baskets · 595 items optimized · CHF 67.4k processed · CHF 3.7k estimated savings.
-
 `Private source` · **[Live product ↗](https://price-hunter.app/)**
 
 ### [US Economy Agent](https://us-economy-agent-caewbffmtchukuynvjsky5.streamlit.app/) — grounded economic intelligence
 
 Transforms live BLS and Freddie Mac data into auto-refreshing Snowflake Dynamic Tables and plain-English answers grounded by Cortex—not model memory. Includes Snowpark ingestion, public-use guardrails, atomic quotas, and a live Streamlit experience.
-
-The architecture keeps the answer connected to its evidence: official source data enters through Snowpark, governed transformations remain refreshable inside Snowflake, and Cortex receives current structured context. The public interface adds fail-closed limits and quota controls so the demo stays useful without turning operational safety into an afterthought.
 
 **[Public source ↗](https://github.com/DOX69/us-economy-agent)** · **[Live demo ↗](https://us-economy-agent-caewbffmtchukuynvjsky5.streamlit.app/)**
 
@@ -74,9 +68,7 @@ My operating principles are simple:
 ## Experience
 
 **InPost Group · Data Engineer · 2022–present**<br>
-Lakehouse architecture, PySpark/SQL pipelines, Snowflake-to-Databricks migration, governance, observability, and CI/CD. Built performance and quality improvements that reduced Lakehouse processing time by 70%, Snowflake warehouse costs by 20%, and daily monitoring by two hours.
-
-That work spans production modeling, automated ingestion, dimensional layers, deployment automation, and collaboration with analysts, consultants, and international engineering teams.
+Big Data Lakehouse architecture, PySpark/SQL pipelines, Snowflake-to-Databricks migration, governance, observability, and CI/CD. Built performance and quality improvements that work spans production modeling, automated ingestion, dimensional layers, deployment automation, and collaboration with analysts, consultants, and international engineering teams.
 
 **Hoist Finance · Data Analyst · 2021–2022**<br>
 Automated ETL, data-quality controls, and BI workflows, reducing manual processing by 40%.
@@ -88,8 +80,8 @@ Data modeling, ETL, business intelligence, statistics, and machine learning.
 
 I previously earned two Databricks associate credentials. Their validity periods have ended; the links below remain the official verification records.
 
-- [Databricks Certified Data Engineer Associate ↗](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) — earned June 2024 · validity ended June 2026
-- [Databricks Certified Data Analyst Associate ↗](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) — earned March 2024 · validity ended March 2026
+- [Databricks Certified Data Engineer Associate ↗](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) — earned June 2024
+- [Databricks Certified Data Analyst Associate ↗](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) — earned March 2024
 
 ## Beyond data
 
@@ -97,6 +89,6 @@ Strength training and Aikido keep me disciplined. Financial literacy, investing,
 
 ## Let’s build something useful
 
-I am open to data engineering roles across French-speaking Switzerland, and to selected collaborations where strong data foundations can unlock a real product or business outcome.
+I am open to data engineering roles in Switzerland (Vaud and Geneva), and to selected collaborations where strong data foundations can unlock a real product or business outcome.
 
 **[Start a conversation on LinkedIn ↗](https://www.linkedin.com/in/mickael-rakotoarinivo/)** · **[Email me ↗](mailto:mickael.rakotoa@gmail.com)** · [English résumé](pages/CV_Data_Engineer_EN.md) · [CV français](pages/CV_Data_Engineer_FR.md)
