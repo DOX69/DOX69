@@ -28,8 +28,6 @@
 
 ## Selected work
 
-<img src="assets/readme/proof-board.webp" width="100%" alt="Product proof from PriceHunter, US Economy Agent, and Agent Performance Hub">
-
 ### [PriceHunter](https://price-hunter.app/) — B2B procurement optimizer
 
 Turns electrical-supply lists into optimized multi-supplier baskets using live offers, stock, sales units, and contractual prices. From import and comparison to supplier split, transmission, and savings reporting.
