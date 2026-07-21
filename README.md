@@ -87,7 +87,7 @@ Data modeling, ETL, business intelligence, statistics, and machine learning.
 I previously earned two Databricks associate credentials. Their validity periods have ended; the links below remain the official verification records.
 <div align="center">
   
-[Databricks Certified Data Engineer Associate ↗](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) — earned June 2024 · [Databricks Certified Data Analyst Associate ↗](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) — earned March 2024
+[Databricks Certified Data Engineer Associate ↗](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) — June 2024 · [Databricks Certified Data Analyst Associate ↗](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) — March 2024
 
 </div>
 
