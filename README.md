@@ -32,13 +32,20 @@
 
 Turns electrical-supply lists into optimized multi-supplier baskets using live offers, stock, sales units, and contractual prices. From import and comparison to supplier split, transmission, and savings reporting.
 
+<div align="center">
+  
 `Private source` · **[Live product ↗](https://price-hunter.app/)**
+
+</div>
 
 ### [US Economy Agent](https://us-economy-agent-caewbffmtchukuynvjsky5.streamlit.app/) — grounded economic intelligence
 
 Transforms live BLS and Freddie Mac data into auto-refreshing Snowflake Dynamic Tables and plain-English answers grounded by Cortex—not model memory. Includes Snowpark ingestion, public-use guardrails, atomic quotas, and a live Streamlit experience.
 
+<div align="center">
+  
 **[Public source ↗](https://github.com/DOX69/us-economy-agent)** · **[Live demo ↗](https://us-economy-agent-caewbffmtchukuynvjsky5.streamlit.app/)**
+</div>
 
 ### [Agent Performance Hub](https://github.com/DOX69/agent-performance-hub) — context engineering CLI
 
@@ -46,7 +53,11 @@ A Python CLI to discover, install, update, and govern curated AI-agent skills ac
 
 It treats reusable agent context as engineering infrastructure. Teams can find the right capability, pin what a project depends on, update it deliberately, and expose concise help that another agent can consume. The registry and manifest provide a reviewable control plane instead of relying on copied folders and undocumented local state.
 
+<div align="center">
+  
 **[Public source ↗](https://github.com/DOX69/agent-performance-hub)** · `Collaboration welcome`
+
+</div>
 
 ## How I engineer data products
 
@@ -74,9 +85,11 @@ Data modeling, ETL, business intelligence, statistics, and machine learning.
 ## Credentials earned
 
 I previously earned two Databricks associate credentials. Their validity periods have ended; the links below remain the official verification records.
+<div align="center">
+  
+[Databricks Certified Data Engineer Associate ↗](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) — earned June 2024 · [Databricks Certified Data Analyst Associate ↗](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) — earned March 2024
 
-- [Databricks Certified Data Engineer Associate ↗](https://credentials.databricks.com/ddbed759-6674-48bd-8d83-2d840b1ea48f) — earned June 2024
-- [Databricks Certified Data Analyst Associate ↗](https://credentials.databricks.com/1e0fc1de-0299-45ab-bc70-ced535dbfbb4) — earned March 2024
+</div>
 
 ## Beyond data
 
@@ -86,10 +99,15 @@ Strength training and Aikido keep me disciplined. Financial literacy, investing,
 
 I am open to data engineering roles in Switzerland (Vaud and Geneva), and to selected collaborations where strong data foundations can unlock a real product or business outcome.
 
-**[Start a conversation on LinkedIn ↗](https://www.linkedin.com/in/mickael-rakotoarinivo/)** · **[Email me ↗](mailto:mickael.rakotoa@gmail.com)** · [English résumé](pages/CV_Data_Engineer_EN.md) · [CV français](pages/CV_Data_Engineer_FR.md)
 <p align="center">
+  <div align="center">
+    
+**[Start a conversation on LinkedIn ↗](https://www.linkedin.com/in/mickael-rakotoarinivo/)** · **[Email me ↗](mailto:mickael.rakotoa@gmail.com)** · [English résumé](pages/CV_Data_Engineer_EN.md) · [CV français](pages/CV_Data_Engineer_FR.md)
+
+  </div>
+  
   <picture>
-  <source media="(max-width: 520px)" srcset="assets/github-snake.svg">
+  <source media="(max-width: 650px)" srcset="assets/github-snake.svg">
   <img src="assets/github-snake.svg" width="100%" alt="Data engineer, +5 years of experience">
 </picture>
 </p>
