@@ -52,18 +52,13 @@ It treats reusable agent context as engineering infrastructure. Teams can find t
 
 <img src="assets/readme/engineering-flow.svg" width="100%" alt="Engineering flow from raw data through governed pipelines to decision-ready products">
 
-I work across the full path from ingestion to a product people can trust: model the domain, establish data contracts, automate quality controls, observe the pipeline, and ship through CI/CD. The goal is not a beautiful pipeline diagram—it is reliable decisions and measurable operating leverage.
+I work across the full path from ingestion to a product people can trust: model the domain, establish data contracts, automate quality controls, observe the pipeline, and ship through CI/CD. The goal is not a beautiful pipeline diagram—it is reliable decisions and measurable operating leverage. My data tools are :
+<div align="center">
 
-My operating principles are simple:
-
-- **Design for the decision.** Start with the user, business rule, and action the data must support.
-- **Make quality executable.** Encode contracts, tests, freshness expectations, and failure behavior in the system.
-- **Treat cost as a signal.** Profile workloads, remove avoidable processing, and make tradeoffs visible.
-- **Ship operable systems.** Prefer observable, documented pipelines that teams can deploy and recover confidently.
-
-| Platforms | Languages | Engineering |
-|:--|:--|:--|
-| Databricks · Snowflake · Delta Lake · dbt | Python · PySpark · SQL · Snowpark | Batch & streaming · Data modeling · Data quality · Observability · CI/CD · TDD · Docker |
+| Databricks | Apache Spark | Snowflake | dbt | Python | SQL | Git | Azure | docker |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/9bbd65be9604ac8f9da57d836831f5b63a8d8179/images/DBX.png?raw=true" width="50" alt="Databricks"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/apachespark/apachespark-original-wordmark.svg" width="50" alt="Apache Spark"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/SNOWFLAKE.png?raw=true" width="50" alt="Snowflake"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/dbt-removebg-preview.png?raw=true" width="50" alt="dbt"/> | <img src="https://github.com/DOX69/DOX69/blob/main/assets/python.png?raw=true" width="50" alt="Python"/> | <img src="https://github.com/DOX69/Databricks_for_data_engineer/blob/62cb87995265002231d4dda14092e2e76c7e4163/images/SQL.svg?raw=true" width="50" alt="SQL"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" alt="Git"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="50" alt="Azure"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" alt="Docker"/> |
+</div>
 
 ## Experience
 
@@ -92,3 +87,9 @@ Strength training and Aikido keep me disciplined. Financial literacy, investing,
 I am open to data engineering roles in Switzerland (Vaud and Geneva), and to selected collaborations where strong data foundations can unlock a real product or business outcome.
 
 **[Start a conversation on LinkedIn ↗](https://www.linkedin.com/in/mickael-rakotoarinivo/)** · **[Email me ↗](mailto:mickael.rakotoa@gmail.com)** · [English résumé](pages/CV_Data_Engineer_EN.md) · [CV français](pages/CV_Data_Engineer_FR.md)
+<p align="center">
+  <picture>
+  <source media="(max-width: 520px)" srcset="assets/github-snake.svg">
+  <img src="assets/github-snake.svg" width="100%" alt="Data engineer, +5 years of experience">
+</picture>
+</p>
