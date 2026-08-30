@@ -40,6 +40,16 @@ Turns electrical-supply lists into optimized multi-supplier baskets using live o
 
 </div>
 
+### [Bitcoin Analysis](https://github.com/DOX69/Bitcoin-analysis)
+
+Collects public Bitcoin OHLCV, exchange-rate, and technical-indicator data. Stores raw data in PostgreSQL, transforms it with dbt, and serves a Next.js dashboard on Railway.
+
+<div align="center">
+
+**[Public source ↗](https://github.com/DOX69/Bitcoin-analysis)** · **[Live dashboard ↗](https://bitcoin-web-prod-production.up.railway.app/dashboard)**
+
+</div>
+
 ### [US Economy Agent](https://us-economy-agent-caewbffmtchukuynvjsky5.streamlit.app/) — grounded economic intelligence
 
 Transforms live BLS and Freddie Mac data into auto-refreshing Snowflake Dynamic Tables and plain-English answers grounded by Cortex—not model memory. Includes Snowpark ingestion, public-use guardrails, atomic quotas, and a live Streamlit experience.
