@@ -30,13 +30,13 @@
 
 ## Selected work
 
-### [RawQL](https://rawql.dev/) · local SQL workbench
+### [RawQL](https://rawql.ch/) · local SQL workbench
 
 Query CSV, JSON, Parquet and Excel files in your browser with DuckDB WebAssembly. Inspect columns and nested JSON, explore results with charts and pivots, and save a portable .rawql workspace. Raw file contents stay on your device. Built with Next.js and TypeScript, currently in invite-only beta.
 
 <div align="center">
 
-`Private source` · **[Live product ↗](https://rawql.dev/)**
+`Private source` · **[Live product ↗](https://rawql.ch/)**
 
 </div>
 
